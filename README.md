@@ -42,7 +42,7 @@ src/
    git clone https://github.com/MilQ28/Dicoding-Fullstack
 2. Masuk ke folder proyek:
    ```bash
-   cd my-personal-notes-app
+   cd Dicoding-Fullstack
    ```
 3. Install dependencies:
    ```bash
