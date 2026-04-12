@@ -39,7 +39,7 @@ src/
 ## ▶️ Cara Menjalankan
 1. Clone repository ini:
    ```bash
-   git clone [https://github.com/MilQ28/Dicoding-Fullstack]
+   git clone https://github.com/MilQ28/Dicoding-Fullstack
 2. Masuk ke folder proyek:
    ```bash
    cd my-personal-notes-app
